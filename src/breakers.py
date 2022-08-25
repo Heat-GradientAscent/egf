@@ -1,6 +1,6 @@
 from litemapy import BlockState
 from flying_machines import FlyingMachine
-from snakes import Snake
+from src.snakes import Snake
 from copy import deepcopy as deep
 
 class Breaker:
